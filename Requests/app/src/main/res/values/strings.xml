@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Requests</string>
+    <string name="requestButton">Send Request</string>
+    <string name="editText">JSON response will print here here!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
